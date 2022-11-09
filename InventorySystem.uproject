@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{07A5CA6C-4A8C-0D3B-1B3A-57928AC25399}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "InventorySystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG",
+				"CoreUObject"
+			]
+		}
+	]
+}
